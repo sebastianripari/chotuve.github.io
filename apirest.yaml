@@ -24,7 +24,10 @@ paths:
         200:
           description: Ping ok
           content:
-            text/plain:
-              schema:
-                type: string
-                example: pong
+            application/json:
+              examples:
+                foo:
+                  value: {
+                    "numero": 1
+                  }
+                
