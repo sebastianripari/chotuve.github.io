@@ -27,9 +27,5 @@ paths:
           content:
             application/json:
               examples: 
-                foo:
-                  value:
-                    {
-                      
-                    }
+                value: {}
                 
