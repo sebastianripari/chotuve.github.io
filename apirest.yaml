@@ -14,7 +14,7 @@ tags:
   description: A simple ping
 - name: Ping
 paths:
-  /ping:
+  /v1/ping:
     get:
       tags:
       - Ping
