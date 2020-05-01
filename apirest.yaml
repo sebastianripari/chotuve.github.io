@@ -12,9 +12,6 @@ info:
 tags:
 - name: Ping
   description: A simple ping
-  externalDocs:
-    description: Find out more about our product
-    url: https://fonouc.com
 - name: Ping
 paths:
   /v1/ping:
