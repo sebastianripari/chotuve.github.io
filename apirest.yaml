@@ -23,3 +23,8 @@ paths:
       responses:
         200:
           description: Ping ok
+          content:
+            text/plain:
+              schema:
+                type: string
+                example: pong
