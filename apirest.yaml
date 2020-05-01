@@ -14,7 +14,7 @@ tags:
   description: A simple ping
 - name: Ping
 paths:
-  /pets:
+  /v1/pets:
     get:
       summary: List all pets
       operationId: listPets
